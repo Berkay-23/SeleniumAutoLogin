@@ -1,0 +1,7 @@
+1) Go to link: https://github.com/UB-Mannheim/tesseract/wiki
+
+2) Download the appropriate version to your computer
+
+3) Copy the "Tesseract-OCR" folder to this directory
+
+The program is ready to run
